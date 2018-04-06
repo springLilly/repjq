@@ -1,0 +1,39 @@
+html{
+	font-size: 100px;
+	background: #f5f5f5;
+	font-family: '微软雅黑'
+}
+ul{
+	list-style:none;
+}
+a{
+	text-decoration: none;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+header.header{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	text-align: center;
+}
+header.header button{
+	border:none;
+	outline: none;
+	width: .4rem;
+	height: .4rem;
+	font-size: .21333333rem;
+	float: left;
+}
+header.header button img{
+	height: .4rem;
+}
+header.header h4{
+	font-size: .18666667rem;
+	height: .4rem;
+	line-height: 2em;
+	color: #e9782c;
+	background: #fff;
+}
